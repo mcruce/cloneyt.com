@@ -1,3 +1,3 @@
 # flowtube.net
 
-An alternative frontend to youtube
+An open source alternative frontend utilizing the youtube api written in HTML5, CSS3, and JavaScript
