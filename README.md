@@ -1,3 +1,3 @@
-# cloneyt.com
+# flowtube.net
 
-Project utilizing the youtube api with a custom frontend
+An alternative frontend to youtube
